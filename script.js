@@ -1,3 +1,5 @@
+const resultEl = document.getElementById('result')
+
 const randomFunc = {
   lower: getRandomLower,
   upper: getRandomUpper,
